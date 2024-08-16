@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vincency
 - 👀 I’m interested in Web development and Machine learning...
-- 🌱 I’m an intermediate web dev. in Python, Javascript, HTML, CSS.
+- 🌱 I’m an intermediate web dev. in Django, React.js and Asp.net.
 - 💞️ I’m looking to share knowledge with everyone and grow together.
 - 📫 You can reach me via vincentokorike@gmail.com
