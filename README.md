@@ -1,5 +1,6 @@
 - Hi, I’m @Vincency
 - I’m interested in Web development and Machine learning...
-- I’m an intermediate web dev. in Django, React.js and Asp.net.
-- I’m looking to share knowledge with everyone and grow together.
+- I’m a professional web developer in Django, React.js and Asp.net.
+- I’m working to create a good and easy web experience for everyone.
 - You can reach me via vincentokorike@gmail.com
+- +234 8108862390
