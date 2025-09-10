@@ -1,5 +1,5 @@
 - Hi, I’m @Vincent Chibueze
-- A professional web developer in Django, React.js and Asp.net.
+- A professional web developer in Django, React.js and Next.js.
 - Working to create a good and easy web experience for everyone.
 - I am very passionate about Web development and Machine learning.
 - You can reach me via vincentokorike@gmail.com
